@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90e83758-90bc-4dae-81d7-7b9e8a9c51c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1uLXHCxRPGrOqRN9XhWk1UEBRL3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BookingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="booking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.booking.booking.BookingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e83758-90bc-4dae-81d7-7b9e8a9c51c1" name="Default Changelist" comment="" />
+      <created>1624445753647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624445753647</updated>
+      <workItem from="1624445754828" duration="187000" />
+      <workItem from="1624445961890" duration="310000" />
+      <workItem from="1624446290116" duration="1808000" />
+      <workItem from="1624448130332" duration="2733000" />
+      <workItem from="1624450941496" duration="13479000" />
+      <workItem from="1624532765536" duration="69000" />
+      <workItem from="1624532846321" duration="21000" />
+      <workItem from="1624533026077" duration="2572000" />
+      <workItem from="1624549153403" duration="2587000" />
+      <workItem from="1641734063642" duration="2477000" />
+      <workItem from="1641988481436" duration="7508000" />
+      <workItem from="1641998278448" duration="6000" />
+      <workItem from="1641998549003" duration="121000" />
+      <workItem from="1642944315724" duration="5230000" />
+      <workItem from="1642953065939" duration="609000" />
+      <workItem from="1643292635989" duration="8000" />
+      <workItem from="1643292697832" duration="6000" />
+      <workItem from="1643663745371" duration="634000" />
+      <workItem from="1643746204126" duration="299000" />
+      <workItem from="1643746550437" duration="7000" />
+      <workItem from="1643746890731" duration="97000" />
+      <workItem from="1643747511939" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
